@@ -1,3 +1,3 @@
 # motion-sickness
 
-Research project done un Unity~
+Research project done in Unity~
