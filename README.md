@@ -14,10 +14,10 @@ Research project done in Unity to test different causes of motion sickness in VR
 
 
 ## Installation:
-1. Install Unity 2017.2.3f2 (Version matter, as Unity isn't friendly when it comes to loading projects in different versions than the orignal one used. 
+1. Install Unity 2017.2.3f2 (Versions matter, as Unity isn't friendly when it comes to loading projects in different versions than the orignal one used. 
 2. Simply load the project in Unity 2017.2.3f1
-3. After load, select the Player prefab followed by the VRCamera
-4. The Vignette and Chromatic Aberration Script is readily attached. Select that values to test. 
+3. After loading is complete, select the Player prefab followed by the VRCamera
+4. The Vignette and Chromatic Aberration Script is readily attached. Select the values to test. 
 
 **These controls are assesible in VR only. Using the keyboard and mouse will not allow the user to interact with such features.*
 
